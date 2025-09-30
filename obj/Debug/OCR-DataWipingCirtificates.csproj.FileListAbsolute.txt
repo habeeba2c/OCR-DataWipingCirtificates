@@ -1,0 +1,7 @@
+C:\Users\HabeebRahman\Source\Repos\OCR-DataWipingCirtificates\obj\Debug\OCR-DataWipingCirtificates.csproj.AssemblyReference.cache
+C:\Users\HabeebRahman\Source\Repos\OCR-DataWipingCirtificates\obj\Debug\OCR-DataWipingCirtificates.csproj.CoreCompileInputs.cache
+C:\Users\HabeebRahman\Source\Repos\OCR-DataWipingCirtificates\bin\Debug\OCR-DataWipingCirtificates.exe.config
+C:\Users\HabeebRahman\Source\Repos\OCR-DataWipingCirtificates\bin\Debug\OCR-DataWipingCirtificates.exe
+C:\Users\HabeebRahman\Source\Repos\OCR-DataWipingCirtificates\bin\Debug\OCR-DataWipingCirtificates.pdb
+C:\Users\HabeebRahman\Source\Repos\OCR-DataWipingCirtificates\obj\Debug\OCR-DataWipingCirtificates.exe
+C:\Users\HabeebRahman\Source\Repos\OCR-DataWipingCirtificates\obj\Debug\OCR-DataWipingCirtificates.pdb

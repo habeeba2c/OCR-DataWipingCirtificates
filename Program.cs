@@ -9,7 +9,7 @@ namespace OCR_DataWipingCirtificates
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {  Console.WriteLine("Hello World!");   
         }
     }
 }
